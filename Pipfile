@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 django = "*"
 python-decouple = "*"
+pillow = "==7.0.0"
 
 [requires]
 python_version = "3.8"
