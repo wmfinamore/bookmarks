@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 python-decouple = "*"
 pillow = "==7.0.0"
+social-auth-app-django = "==3.1.0"
 
 [requires]
 python_version = "3.8"
