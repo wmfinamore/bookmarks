@@ -1,4 +1,6 @@
 *.sqlite3
 *.pyc
 *.env
+*.crt
+*.key
 /media
